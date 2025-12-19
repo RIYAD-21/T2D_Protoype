@@ -18,8 +18,8 @@ const Header = () => {
     // Reset axios instance
     axios.defaults.headers.common = {};
 
-    // Redirect to login
-    navigate('/login');
+    // Redirect to /
+    navigate('/');
   };
 
   return (
