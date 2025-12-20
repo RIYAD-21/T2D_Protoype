@@ -1,6 +1,6 @@
 ﻿# T2D_Protoype
 
-T2D is a comprehensive learning management and quality monitoring platform that helps organizations track training effectiveness, monitor participant progress, and ensure quality outcomes. The application features user authentication, a dashboard for training analytics, and a chatbot interface for interactive learning.
+T2D is a comprehensive learning management and quality monitoring platform that helps organizations track training effectiveness, monitor participant progress, and ensure quality outcomes. The application features user authentication, a dashboard for training analytics, and a chatbot interface for answer questions about HR informations.
 
 ## Features
 
@@ -77,3 +77,4 @@ Click the Logout button in the header to:
 - Clear authentication token
 - Reset axios headers
 - Return to login page
+
